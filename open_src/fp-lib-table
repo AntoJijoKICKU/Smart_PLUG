@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "P:/open_sorce_silabs/kicad_7_0/lib/ul_MOC3021S/KiCADv6/footprints.pretty")(options "")(descr ""))
+)
