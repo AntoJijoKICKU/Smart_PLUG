@@ -1,4 +1,4 @@
-22641526138841776
+22650052766107398
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93037,12 +93037,47 @@ Varistor VF
 2
 2
 footprints
-xGM240P
+MOC3021S_LTO
 
-MGM240PB32VNA3 
+MOC3021S 
 0
-36
-36
+6
+6
+footprints
+MOC3021S_LTO-L
+
+MOC3021S 
+0
+6
+6
+footprints
+MOC3021S_LTO-M
+
+MOC3021S 
+0
+6
+6
+moc
+MOC3021S_LTO
+
+MOC3021S 
+0
+6
+6
+moc
+MOC3021S_LTO-L
+
+MOC3021S 
+0
+6
+6
+moc
+MOC3021S_LTO-M
+
+MOC3021S 
+0
+6
+6
 var_custom
 VARS_B72214S0271K101_TDK
 
