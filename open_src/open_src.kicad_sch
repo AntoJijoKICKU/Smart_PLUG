@@ -1,0 +1,99 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 0eec0a72-c8ab-4737-8598-de474fd425a5)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 101.6 90.17) (size 39.37 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 24b39842-6525-4d38-a7f7-e83220cb1c3e)
+    (property "Sheetname" "regulator" (at 101.6 89.4584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "regulator_5v to 3.kicad_sch" (at 101.6 126.3146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "open_src"
+        (path "/0eec0a72-c8ab-4737-8598-de474fd425a5" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 43.18 88.9) (size 39.37 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 98afbe17-aea5-438e-b99e-ff81dbf5f97d)
+    (property "Sheetname" "scr" (at 43.18 88.1884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "controlling 230v.kicad_sch" (at 43.18 125.0446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "open_src"
+        (path "/0eec0a72-c8ab-4737-8598-de474fd425a5" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 101.6 34.29) (size 39.37 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a922efa4-6ed1-4252-b0de-28fa44c32c4a)
+    (property "Sheetname" "power" (at 101.6 33.5784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power.kicad_sch" (at 101.6 70.4346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "open_src"
+        (path "/0eec0a72-c8ab-4737-8598-de474fd425a5" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 43.18 34.29) (size 39.37 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b36fa945-a47d-4a13-be18-e2c3b2d5b5b6)
+    (property "Sheetname" "microcontroller" (at 43.18 33.5784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "microcontroller.kicad_sch" (at 43.18 70.4346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "open_src"
+        (path "/0eec0a72-c8ab-4737-8598-de474fd425a5" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 160.02 34.29) (size 39.37 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b7fe7432-6dfa-4feb-827c-d0e6efd2ca3d)
+    (property "Sheetname" "current monitoring" (at 160.02 33.5784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "current monitoring.kicad_sch" (at 160.02 70.4346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "open_src"
+        (path "/0eec0a72-c8ab-4737-8598-de474fd425a5" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
